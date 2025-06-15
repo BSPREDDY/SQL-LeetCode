@@ -1,2 +1,2 @@
 # SQL-LeetCode
-learning sql 
+practice sql
